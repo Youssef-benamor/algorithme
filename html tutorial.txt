@@ -1,9 +1,9 @@
 html cours:
-### What is Web Development?
+ What is Web Development?
 
 Web development is the process of creating websites and web applications for the internet. It involves front-end development (design and user interface) and back-end development (server-side, databases, and APIs). Full-stack developers handle both. Web development also includes design (UI/UX) and maintenance to ensure a website is functional, secure, and up-to-date.
 
-### Why is Web Development Essential?
+Why is Web Development Essential?
 
 1. **Global Access**: Websites are the primary gateway to the internet, enabling communication, business, and information sharing worldwide.
   
